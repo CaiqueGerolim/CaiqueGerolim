@@ -19,7 +19,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=CaiqueGerolim&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="(https://media.tenor.com/i3lImBg2UEQAAAAM/scaler-create-impact.gif)">
+<img src="https://tenor.com/3QqG.gif">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CaiqueGerolim&icon=3&color=12)](https://visitcount.itsvg.in)
