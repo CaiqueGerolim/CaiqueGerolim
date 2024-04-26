@@ -13,7 +13,7 @@ Me chamo Caíque, tenho 15 anos e to estudando programação, bem-vindo ao meu p
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CaiqueGerolim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CaiqueGerolim&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=CaiqueGerolim&label=Viram%20meu%20perfil%3A&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
