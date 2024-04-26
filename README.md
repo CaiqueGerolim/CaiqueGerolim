@@ -1,5 +1,5 @@
 # 💫 About Me:
-Me chamo Caíque, tenho 15 anos e to estudando programação, bem-vindo ao meu perfil!!<br>🧑‍💻Programador estudante<br>
+Me chamo Caíque, tenho 15 anos e to estudando programação, bem-vindo ao meu perfil!!<br><br>🧑‍💻Programador estudante<br>
 
 
 ## 🌐 Socials:
