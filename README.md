@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre Mim:
 🧑‍💻 Estudando Programação <br>🥋 Gosto de fazer Atividade Fisica<br>🏀 Basquete 
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/caiquewrld_) 
 
 # 💻 Tech Stack:
@@ -18,7 +18,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=CaiqueGerolim&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
+### 😂 Memezin
 <img src="https://media.tenor.com/i3lImBg2UEQAAAAM/scaler-create-impact.gif" alt="Programador">
 
 ---
