@@ -1,7 +1,7 @@
 # 💫 Sobre Mim:
 ### 🏀Basquete <br> 🧑‍💻Programando
 ## 🌐 Redes Sociais:
-[![Instagram](file:///C:/Users/51054241821/Downloads/Design%20sem%20nome.png)](https://instagram.com/caiquewrld_) 
+[![](file:///C:/Users/51054241821/Downloads/Design%20sem%20nome.png)](https://instagram.com/caiquewrld_) 
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
