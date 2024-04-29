@@ -1,6 +1,6 @@
 # 💫 Sobre Mim:
-<p style="font-size: 90px;">🧑‍💻 Programando.</p>
-<p style="font-size: 90px;"> 🏀Basquete.</p>
+<p style="font-size: 90px;">🧑‍💻Programando</p>
+<p style="font-size: 90px;">🏀Basquete</p>
 
 ## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/caiquewrld_) 
