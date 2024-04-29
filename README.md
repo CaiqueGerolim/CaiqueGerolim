@@ -2,7 +2,7 @@
 ### 🏀Basquete <br> 🧑‍💻Programando
 ## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/caiquewrld_)
-[![Gmail](https://img.shields.io/badge/Gmail-%23E4405F.svg?logo=Gmail&logoColor=redblood)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CrpPbDzGcBPrGRNJRMhJclxqLRPRNfKpMMHPwXdvhjvJSCgfqKHbnlfRCvCvcchZdwndbWDsJPFCXGMKdwjq)
+[![Gmail](https://img.shields.io/badge/Gmail-%23E4405F.svg?logo=Gmail&logoColor=redblood)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=caiquegsantos1@gmail.com)
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
