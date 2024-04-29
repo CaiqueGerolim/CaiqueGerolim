@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-<p style="font-size: 18px;">🧑‍💻 Programando <br> 🏀Basquete</p>
+<p style="font-size: 30px;">🧑‍💻 Programando <br> 🏀Basquete</p>
 
 
 ## 🌐 Redes Sociais:
