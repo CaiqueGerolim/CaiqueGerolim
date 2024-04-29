@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-🧑‍💻 Estudando Programação <br>🥋 Gosto de fazer Atividade Fisica<br>🏀 Basquete 
+<p style="font-size: 18px;">🧑‍💻 Programando <br> 🏀Basquete</p>
 
 
 ## 🌐 Redes Sociais:
