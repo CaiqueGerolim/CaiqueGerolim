@@ -13,7 +13,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=CaiqueGerolim&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
-<img src="https://media.tenor.com/i3lImBg2UEQAAAAM/scaler-create-impact.gif" alt="Programador" style="width: 660px;">
+<img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" alt="Programador" style="width: 660px;">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CaiqueGerolim&icon=3&color=12)](https://visitcount.itsvg.in)
