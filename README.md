@@ -1,5 +1,5 @@
 ## 💫 Sobre Mim:
-🧑‍💻Programando
+Me chamo Caique, faço aula na Escola Senai "Paulo Antonio Skaf", eu tenho 15 anos e estou aprendendo implantação de serviço na nuvem.
 ## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/caiquewrld_)
 
