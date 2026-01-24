@@ -1,5 +1,5 @@
 ## 💫 Sobre Mim:
-Me chamo Caique, Estou a procura do primeiro emprego na área de programação. Atualmente tenho 17 anos e estou fazendo cursos no Senai "Paulo Antonio Skaf".
+Me chamo Caique, Estou a procura do primeiro emprego na área de programação. Atualmente faço cursos no Senai "Paulo Antonio Skaf".
 ## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/caiquewrld_)
 
